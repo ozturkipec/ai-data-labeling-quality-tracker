@@ -15,13 +15,13 @@ Upload a CSV file with model predictions and true labels — and instantly view 
 ---
 
 ## 📂 Project Structure
-
+```
 ai-data-labeling-quality-tracker/
 ├── app.py               # Streamlit app
 ├── requirements.txt     # Dependencies
 ├── example_data.csv     # Sample dataset
 └── README.md            # Project documentation
-
+```
 ---
 
 ## 📊 Example Data
