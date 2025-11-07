@@ -1,0 +1,11 @@
+id,true_label,predicted_label,confidence,notes
+1,person,person,0.98,correct detection
+2,vehicle,person,0.62,misclassified
+3,person,person,0.91,correct detection
+4,vehicle,vehicle,0.87,correct detection
+5,animal,vehicle,0.55,edge case / blurry
+6,animal,animal,0.92,correct detection
+7,person,animal,0.40,low light
+8,vehicle,vehicle,0.89,correct detection
+9,person,vehicle,0.51,occluded
+10,animal,animal,0.95,correct detection
